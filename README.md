@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on the [Food Label](https://foodlabel.webunicode.com/) project | Atualmente estou trabalhando no projeto [Food Label](https://foodlabel.webunicode.com/)
 
-- 🌱 I’m currently learning **JavaScript, React, Typescript**
+- 🌱 I’m currently learning **JavaScript, React, React Native Typescript** | Atualmente estou aprendendo: **JavaScript, React, React Native Typescript**
 
-- 📫 How to reach me **lucaslillo@protonmail.com**
+- 📫 How to reach me **lucaslillo@protonmail.com** | Contato profissional: **lucaslillo@protonmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: | Conecte-se comigo: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-lillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lillo" height="30" width="40" /></a>
 </p>
