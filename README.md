@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-lillo" alt="lucas-lillo" /></a> </p>
 
-- 🔭 I’m currently working on [Food Label](https://foodlabel.webunicode.com/)
+- 🔭 I’m currently working on the [Food Label](https://foodlabel.webunicode.com/) project | Atualmente estou trabalhando no projeto [Food Label](https://foodlabel.webunicode.com/)
 
 - 🌱 I’m currently learning **JavaScript, React, Typescript**
 
