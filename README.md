@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me: | Conecte-se comigo: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-lillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lillo" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/lucas-eduardo-l-16689821b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lillo" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools Used: | Linguagens e Ferramentas Utilizadas: </h3>
