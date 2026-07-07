@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the [Food Label](https://foodlabel.webunicode.com/) project | Atualmente estou trabalhando no projeto [Food Label](https://foodlabel.webunicode.com/)
 
-- 🌱 I’m currently learning **JavaScript, React, React Native Typescript** | Atualmente estou aprendendo: **JavaScript, React, React Native Typescript**
+- 🌱 I’m currently learning **JavaScript, React, React Native, Typescript** | Atualmente estou aprendendo: **JavaScript, React, React Native, Typescript**
 
 - 📫 How to reach me **lucaslillo@protonmail.com** | Contato profissional: **lucaslillo@protonmail.com**
 
