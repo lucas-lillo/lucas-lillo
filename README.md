@@ -1,4 +1,4 @@
-<h1 align="center">Hi Welcome to My Profile, I'm Lucas Lillo <br/> Olá Bem Vindo ao Meu Perfil, Me Chamo Lucas </h1>
+<h1 align="center"> Hi! 👋 Welcome to My Profile, I'm Lucas Lillo <br/> Olá 👋 Bem Vindo ao Meu Perfil, Me Chamo Lucas </h1>
 <h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-lillo&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-lillo" /> </p>
